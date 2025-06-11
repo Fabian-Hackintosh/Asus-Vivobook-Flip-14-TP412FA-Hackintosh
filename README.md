@@ -1,7 +1,5 @@
 # Asus-Vivobook-Flip-14-TP412FA-Hackintosh
 
--WORK IN PROGRESS-
-
 OpenCore version: 1.0.4
 
 Recommended macOS version: macOS Ventura
