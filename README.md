@@ -2,12 +2,12 @@
 
 -WORK IN PROGRESS-
 
-OpenCore version: 1.0.0
+OpenCore version: 1.0.4
 
-Recommended macOS version: macOS Sonoma
+Recommended macOS version: macOS Ventura
 
 If you install macOS Big Sur, macOS Catalina bluetooth is not working
-If you install macOS Monterey, macOS Ventura Wi-Fi is not working
+If you install macOS Monterey, macOS Sonoma Wi-Fi is not working
 
 This efi is updated every time when is launching a new macOS version or OpenCore!
 
@@ -21,10 +21,10 @@ This EFI is working only on the model with that specifications:
 If you use this efi with another pc or model of this laptop, your components can be dammaged!
 I know, on About this Mac it shows Intel HD Graphics CFL CRB 1536 MB but in my opinion is not a problem!
 
--TouchScreen is not working!
+-TouchScreen works!
 -TouchPad works
 -Battery indicator works!
--HDMI is not works!
+-HDMI is not working!
 -Wi-Fi works!
 -Bluetooth works!
 -iServices works
